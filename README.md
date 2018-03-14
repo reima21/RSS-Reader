@@ -1,7 +1,7 @@
 RSS-Reader
 ====
 
-swiftを用いたrssを利用したiOSアプリ
+swiftを用いたRSSリーダーiOSアプリ
 
 ## Description
 iOSアプリの基礎を身につけるためにRssReaderを作成
